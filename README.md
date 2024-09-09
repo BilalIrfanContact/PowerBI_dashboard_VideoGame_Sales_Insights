@@ -41,5 +41,6 @@ The dataset has been cleaned and transformed in Power BI for accurate and insigh
 This interactive Power BI dashboard allows users to:
 - Filter data by **platform** using the slicer to analyze sales trends for specific consoles or devices.
 - Explore various visualizations for deeper insights into the video game industry. The data can be sliced by year, region, publisher, and game title.
+![image](https://github.com/user-attachments/assets/4e8e59c6-bde5-4ec3-9e48-aef0e5f53d84)
 
 ---
